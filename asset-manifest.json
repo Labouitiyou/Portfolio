@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Labouitiyou/Portfolio.git/static/css/main.66a20b82.css",
+    "main.js": "/Labouitiyou/Portfolio.git/static/js/main.3c5b00d7.js",
+    "static/media/api.jpg": "/Labouitiyou/Portfolio.git/static/media/api.55fd458dcb01ab6e11f2.jpg",
+    "static/media/Youssef.jpg": "/Labouitiyou/Portfolio.git/static/media/Youssef.fd1a5eeb2f0a054aef7d.jpg",
+    "index.html": "/Labouitiyou/Portfolio.git/index.html",
+    "main.66a20b82.css.map": "/Labouitiyou/Portfolio.git/static/css/main.66a20b82.css.map",
+    "main.3c5b00d7.js.map": "/Labouitiyou/Portfolio.git/static/js/main.3c5b00d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66a20b82.css",
+    "static/js/main.3c5b00d7.js"
+  ]
+}
