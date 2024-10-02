@@ -1,16 +1,23 @@
 import React from 'react';
 import image from './Assets/Youssef.jpg'
-import './Hero.css'; // Assurez-vous d'ajouter le fichier CSS pour le style
-import ParticlesBackground from './ParticlesBackground';
+import Typical from 'react-typical';
+import './Hero.css'; 
 
 const Hero = () => {
   return (
     <section id="hero" className="hero">
-        <ParticlesBackground />
       <div className="hero-content">
         <img src={image} alt="labouiti-Yousseef" className="hero-photo" />
         <h1>Labouiti Youssef</h1>
-        <p>Développeur Web | React JS | FrontEnd</p>
+        <p>
+          <Typical
+            steps={[
+              'Développeur Web FrontEnd 💻', 2000,
+              'Développeur Web React JS 💻', 2000,
+            ]}
+            loop={Infinity}
+          />
+          </p>
         <a href="#projects">Voir mes projets</a>
       </div>
     </section>

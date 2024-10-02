@@ -1,12 +1,13 @@
 import React from 'react';
 import './Projects.css';
 
+
 const projects = [
   {
     id: 1,
     title: "OhMyFood",
     description: "Un site “mobile first” qui répertorie les menus de restaurants",
-    image: "./Ohmyfood.jpg" ,
+    image: "./Ohmyfood.jpg",
     lien: "https://labouitiyou.github.io/Projet-Site-d-un-restaurant/"
   },
   {

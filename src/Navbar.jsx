@@ -1,5 +1,5 @@
 import React from 'react';
-import './Navbar.css';  // Fichier de style pour le menu de navigation
+import './Navbar.css';  
 
 const Navbar = () => {
   return (
