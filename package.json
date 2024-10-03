@@ -5,6 +5,8 @@
   "version": "0.1.0",
   
   "private": true,
+
+  "homepage": "https://github.com/Labouitiyou/Portfolio.git",
   
   "dependencies": {
   
@@ -52,7 +54,7 @@
   
   },
   
-  "homepage": "https://labouitiyou.github.io/Portfolio/",
+  
   
   "scripts": {
   
