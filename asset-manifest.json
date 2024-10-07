@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Labouitiyou/Portfolio.git/static/css/main.66a20b82.css",
-    "main.js": "/Labouitiyou/Portfolio.git/static/js/main.3c5b00d7.js",
-    "static/media/api.jpg": "/Labouitiyou/Portfolio.git/static/media/api.55fd458dcb01ab6e11f2.jpg",
-    "static/media/Youssef.jpg": "/Labouitiyou/Portfolio.git/static/media/Youssef.fd1a5eeb2f0a054aef7d.jpg",
-    "index.html": "/Labouitiyou/Portfolio.git/index.html",
-    "main.66a20b82.css.map": "/Labouitiyou/Portfolio.git/static/css/main.66a20b82.css.map",
-    "main.3c5b00d7.js.map": "/Labouitiyou/Portfolio.git/static/js/main.3c5b00d7.js.map"
+    "main.css": "/Portfolio/static/css/main.15c4e2a2.css",
+    "main.js": "/Portfolio/static/js/main.0abc0206.js",
+    "static/media/api.jpg": "/Portfolio/static/media/api.55fd458dcb01ab6e11f2.jpg",
+    "static/media/Youssef.jpg": "/Portfolio/static/media/Youssef.fd1a5eeb2f0a054aef7d.jpg",
+    "index.html": "/Portfolio/index.html",
+    "main.15c4e2a2.css.map": "/Portfolio/static/css/main.15c4e2a2.css.map",
+    "main.0abc0206.js.map": "/Portfolio/static/js/main.0abc0206.js.map"
   },
   "entrypoints": [
-    "static/css/main.66a20b82.css",
-    "static/js/main.3c5b00d7.js"
+    "static/css/main.15c4e2a2.css",
+    "static/js/main.0abc0206.js"
   ]
 }
